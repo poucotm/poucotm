@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+<!--
 [![email](https://img.shields.io/badge/email-poucotm%40gmail.com-blue)](mailto:poucotm@gmail.com)
 ![followers](https://img.shields.io/github/followers/poucotm)
 
 ![](https://github-readme-stats.vercel.app/api?username=poucotm&count_private=true&show_icons=true&theme=gotham&hide=contribs)
+-->
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=poucotm&theme=onedark)
 -->
