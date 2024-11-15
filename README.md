@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![Image](https://github.com/poucotm/Links/blob/master/image/zMisc/desktop.jpg)
+-->
 
